@@ -19,7 +19,7 @@ Upon clicking the "Run" button, the application executes Kosaraju’s Algorithm 
 ![Screenshot 2025-06-28 152308](https://github.com/user-attachments/assets/6d3bae69-9db1-4942-9cb7-472a148701fa)
 
 ## 3. Random Friend Suggestion & No Mutuals
-When a user with no connections is queried, or if two users have no mutual friends (like 6 and 9), the system indicates that no mutual friends or friend data is available. This ensures accurate feedback and improves user experience.
+When a user ID is entered, the system fetches and displays a random friend from their friend list. Or if two users have no mutual friends (like 6 and 9), the system indicates that no mutual friends or friend data is available. This ensures accurate feedback and improves user experience.
 
 ![Screenshot 2025-06-28 152346](https://github.com/user-attachments/assets/25ff2d44-5dad-483b-bbeb-65129e229392)
 
