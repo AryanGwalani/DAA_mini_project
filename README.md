@@ -13,7 +13,7 @@ This system models realistic social behaviors and can be extended for use in rec
 
 ![Screenshot 2025-06-28 152251](https://github.com/user-attachments/assets/5c18f39c-dcdc-49d3-9809-ed18d912bb76)
 
-## 2. Home Screen – Application Dashboard
+## 2. Strongly Connected Components Output
 Upon clicking the "Run" button, the application executes Kosaraju’s Algorithm and displays each strongly connected component (SCC). These components represent user clusters or communities where each member is reachable from every other member, similar to real-world friend groups in a social network.
 
 ![Screenshot 2025-06-28 152308](https://github.com/user-attachments/assets/6d3bae69-9db1-4942-9cb7-472a148701fa)
