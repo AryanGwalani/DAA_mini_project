@@ -24,7 +24,7 @@ When a user ID is entered, the system fetches and displays a random friend from 
 ![Screenshot 2025-06-28 152346](https://github.com/user-attachments/assets/25ff2d44-5dad-483b-bbeb-65129e229392)
 
 ## 4. Mutual Friends Found
-Users can enter two IDs (e.g., 8 and 10) to retrieve mutual friends. In this example, the algorithm detects 7 as a common connection between them. This functionality mirrors core social network features such as mutual friend discovery.
+Users can enter two IDs (like 8 and 10) to retrieve mutual friends. In this example, the algorithm detects 7 as a common connection between them. This functionality mirrors core social network features such as mutual friend discovery.
 
 ![Screenshot 2025-06-28 152324](https://github.com/user-attachments/assets/dfdc1fb0-11e1-41ed-a047-db1068e3e41f)
 
